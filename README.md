@@ -1,4 +1,4 @@
-Guided Normal Orientation Propagation Across Sharp Features and Curved Regions for Point Clouds By T. Li
+Guided Normal Orientation Propagation Across Sharp Features for Point Clouds By T. Li
 
 Guided by two reference vectors stemming from an anchor point defined in the curved region, GNOP can propagate normal orientation easily across sharp features.
 
